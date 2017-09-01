@@ -1,7 +1,12 @@
+V2.1.1 - Stat Columns
+
+> Added six columns between 'HeldItem' and 'MetLoc' on the PKHeX Import tab to account for the new stat columns from an earlier PKHeX release.
+
+
 V2.1.0 - Changelog created
 
 Spreadsheet template has been merged with sprite library. 
 Information on releases and issues will be posted on the GitHub.
 
-> Added a column between 'OTLang' and 'CountryID' on the PKHeX Import tab to account for the lew 'Legal' column from the latest PKHeX release.
+> Added a column between 'OTLang' and 'CountryID' on the PKHeX Import tab to account for the new 'Legal' column from the latest PKHeX release.
 > For users that were already using the template, please add this column by yourself once you switch to the newest PKHeX release.
