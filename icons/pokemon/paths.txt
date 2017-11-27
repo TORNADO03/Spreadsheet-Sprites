@@ -663,6 +663,7 @@ pikachu-cute.png
 pikachu-hoenn-cap.png
 pikachu-kalos-cap.png
 pikachu-original-cap.png
+pikachu-partner-cap.png
 pikachu-sinnoh-cap.png
 pikachu-tough.png
 pikachu-unova-cap.png
