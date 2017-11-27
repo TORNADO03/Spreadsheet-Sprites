@@ -82,6 +82,7 @@ bibarel.png
 bidoof.png
 binacle.png
 bisharp.png
+blacephalon.png
 blastoise-mega.png
 blastoise.png
 blaziken-mega.png
@@ -590,6 +591,9 @@ murkrow.png
 musharna.png
 natu.png
 necrozma.png
+necrozma-dawn.png
+necrozma-dusk.png
+necrozma-ultra.png
 nidoking.png
 nidoqueen.png
 nidoran-f.png
@@ -845,6 +849,7 @@ spiritomb.png
 spoink.png
 spritzee.png
 squirtle.png
+stakataka.png
 stantler.png
 staraptor.png
 staravia.png
@@ -1043,6 +1048,7 @@ zangoose.png
 zapdos.png
 zebstrika.png
 zekrom.png
+zeraora.png
 zigzagoon.png
 zoroark.png
 zorua.png
