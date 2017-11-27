@@ -502,6 +502,7 @@ luvdisc.png
 luxio.png
 luxray.png
 lycanroc-midnight.png
+lycanroc-dusk.png
 lycanroc.png
 machamp.png
 machoke.png
@@ -589,6 +590,7 @@ munchlax.png
 munna.png
 murkrow.png
 musharna.png
+naganadel.png
 natu.png
 necrozma.png
 necrozma-dawn.png
@@ -672,6 +674,7 @@ pinsir-mega.png
 pinsir.png
 piplup.png
 plusle.png
+poipole.png
 politoed.png
 poliwag.png
 poliwhirl.png
