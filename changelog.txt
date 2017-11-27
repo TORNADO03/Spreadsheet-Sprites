@@ -1,3 +1,12 @@
+V2.2.0 - USUM Sprites
+
+> Added new USUM sprites:
+ - New Forms (Partner Pikachu, Dusk Lycanroc, Necrozma (Dawn-Wings, Dusk-Mane, Ultra))
+ - New Pokemon (Poipole, Naganadel, Stakataka, Blacephalon, Zeraora)
+ - New Items (Z-Crystals)
+> Added code to the template to support the new species and items.
+> Added code to display alternate forms when using PKHeX Import. All alternate forms should be supported.
+
 V2.1.1 - Stat Columns
 
 > Added six columns between 'HeldItem' and 'MetLoc' on the PKHeX Import tab to account for the new stat columns from an earlier PKHeX release.
