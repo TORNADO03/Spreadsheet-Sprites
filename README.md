@@ -5,6 +5,6 @@ This repo's purpose is to provide sprites for the spreadsheet I use to catalog m
 ## Credit
 All sprites were taken from [PokeSprite](https://github.com/msikma/pokesprite) by msikma.
 
-Scarlet/Violet sprites were taken from Ezeart's [deviantart](https://www.deviantart.com/ezerart).
+Scarlet/Violet sprites were taken from [National Pokedex](https://www.deviantart.com/mbcmechachu/art/National-Pokedex-Icon-Dex-824897934) - [Icon dex](https://www.deviantart.com/mbcmechachu/art/National-Pokedex-Icon-Dex-Shiny-910547529) from MBCMechachu's [deviantart](https://www.deviantart.com/mbcmechachu).
 
 The original spreadsheet [template](https://docs.google.com/spreadsheets/d/1_deJ-nWnclxL7HeLTlFppfvewciEmmaxA3WKCtmLJy0/edit#gid=150229614) was developed by JFSushi.
